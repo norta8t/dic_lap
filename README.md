@@ -1,8 +1,8 @@
-# DIC1 repository LAP
+# DIC repository LAP
 
 ## Repository Contents
 
-This repository contains example files used in the DIC1 classes at HTL-Rankweil. The examples in the microcontroller section are developed using Microchip Studio, tailored for the MEGACARD v6.
+This repository contains example files used in the DIC classes at HTL-Rankweil. The examples in the microcontroller section are developed using Microchip Studio, tailored for the MEGACARD v6.
 
 ## Setting Up the Examples
 
